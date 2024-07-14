@@ -1,9 +1,6 @@
 <html lang="en"><head> 
     
     <title>HOMEZONE</title>
-
-     <!-- kkkkkk<link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/carousel/"> -->
-
     
     <link href="assets\dist\css\bootstrap.min.css" rel="stylesheet"> 
     
@@ -293,11 +290,7 @@ if ($result->num_rows > 0) {
                 <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z"/>
               </svg>in@homezone.com</p>
 
-            <!-- <li class="nav-item mb-2"><a href="buy.html" class="nav-link p-0 text-muted">Home</a></li>
-            <li class="nav-item mb-2"><a href="buy.html" class="nav-link p-0 text-muted">Features</a></li>
-            <li class="nav-item mb-2"><a href="buy.html" class="nav-link p-0 text-muted">Pricing</a></li>
-            <li class="nav-item mb-2"><a href="buy.html" class="nav-link p-0 text-muted">FAQs</a></li>
-            <li class="nav-item mb-2"><a href="buy.html" class="nav-link p-0 text-muted">About</a></li> -->
+           
           </ul>
         </div>
   
@@ -357,10 +350,7 @@ if ($result->num_rows > 0) {
 
     </footer>
   </div>
-  <!-- <footer class="container">
-    <p class="float-end"><a href="buy.html">Back to top</a></p>
-    <p>© 2017–2021 Company, Inc. · <a href="buy.html">Privacy</a> · <a href="buy.html">Terms</a></p>
-  </footer> -->
+ 
 </main>
 
 <script>  function subscribe() {
