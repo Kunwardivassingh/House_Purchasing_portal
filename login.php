@@ -24,9 +24,7 @@ if (isset($_POST["login"])) {
         die("Connection failed: " . $conn->connect_error);
     }
 
-    // Sanitize user inputs
-    //$username = mysqli_real_escape_string($conn, $username);
-    //$password = mysqli_real_escape_string($conn, $password);
+   
 
     // Implement your login logic here
     $sql = "SELECT * FROM users WHERE newUsername='$username' AND newPassword='$password'";
